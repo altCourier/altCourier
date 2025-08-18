@@ -1,6 +1,9 @@
-###  Featured Projects
-- [Eve Text Editor](https://github.com/altCourier/eve)
-- [Bitfall](https://github.com/altCourier/Bitfall)
+### Developer interested in low-level programming.
 
+My current focus is on **C** and **network programming** 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altCourier&layout=compact)
+---
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=***&layout=compact)
