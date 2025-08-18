@@ -2,7 +2,7 @@
 
 My current focus is on **C** and **network programming** 
 
-# I am proficient in **C**, building with **Makefiles**, and managing projects with **Git**.
+I am proficient in **C**, building with **Makefiles**, and managing projects with **Git**.
 
 ---
 
