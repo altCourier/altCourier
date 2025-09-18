@@ -10,8 +10,6 @@ I am proficient at **C**, building with **Makefiles**, and managing projects wit
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altCourier&layout=compact)
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=altCourier&&show_icons=true&theme=dark
-
 ### Connect with me
 
 -   [LinkedIn](https://www.linkedin.com/in/slauluyol/)
